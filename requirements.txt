@@ -1,0 +1,5 @@
+streamlit
+streamlit-component-lib
+openai
+python-dotenv
+markdown
